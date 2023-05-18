@@ -29,3 +29,6 @@ Modeling with in real-time with X-Plane flight simulator
 Finally, besides offering these modeling tools, the tool also offers a way the tool in XPlane (11), providing real-time stress evaluation for an user flying in the simulation.
 
 This can be achieved by starting a flight in XPlane and then running the xplane_communicator.py
+
+==========================================================
+xplane_communicator.py重点看，可以从X-plane平台读取和写入数据
